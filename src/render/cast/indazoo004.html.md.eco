@@ -1,0 +1,24 @@
+---
+title: "Зоопарк 4"
+date: 2010-06-27 23:50
+podfeed: indazoo
+comments: true
+---
+В этом выпуске я говорю о:
+- работах в Отрадном;
+- новых чешских сериалах;
+- странной одежде для беременных;
+- петькиных обновках;
+- том, о чём мечтает каждый чех;
+- том, почему на айФон не пустили обои;
+- том, как айФон 4 выбирает сети;
+- службе работы с клиентами а-ля Сбербанк.
+
+Ссылки выпуска:
+- [Vyprávěj](http://cs.wikipedia.org/wiki/Vypr%C3%A1v%C4%9Bj);
+- [Официальная страница сериала Vyprávěj](http://www.ceskatelevize.cz/porady/10195164142-vypravej/);
+- [Český sen](http://cs.wikipedia.org/wiki/%C4%8Cesk%C3%BD_sen);
+- Missing features: *link missing*;
+- Включение скрытых фич: *link missing*.
+
+<%- @getEnclosure() %>

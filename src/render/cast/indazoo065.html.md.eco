@@ -1,0 +1,10 @@
+---
+title: "Зоопарк 65: Жаркое лето"
+date: 2013-08-12 08:26
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- Анки, температура и чего-то там ещё.
+
+<%- @getEnclosure() %>

@@ -1,0 +1,12 @@
+---
+title: "Зоопарк 73: Сын-машина-телефон"
+date: 2014-04-17 08:40
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- Сын;
+- Машина;
+- Телефон.
+
+<%- @getEnclosure() %>

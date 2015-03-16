@@ -1,0 +1,19 @@
+---
+title: "Зоопарк 21: Чехия"
+date: 2011-07-16 00:57
+podfeed: indazoo
+comments: true
+---
+В этом выпуске вы услышите о/об:
+- переезде;
+- проверке от IBM;
+- сайте ifttt.com;
+- программе DownCast;
+- потере домена;
+- новых темах и разделах.
+
+Ссылки выпуска:
+- [DownCast](http://www.downcastapp.com/);
+- [IFTTT](https://ifttt.com/).
+
+<%- @getEnclosure() %>

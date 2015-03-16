@@ -1,0 +1,18 @@
+---
+title: "Breaking News 1"
+date: 2010-06-08 23:15
+podfeed: hot
+comments: true
+---
+- Apple и Cisco;
+- Производители бюджетных видеокамер покрываются холодным потом;
+- Технология Retina;
+- FaceTalk;
+- Why keynote on WWDC 2010 has sucked more than others;
+- Неожиданные необъявленные апдейты.
+
+Это и совсем немного другого.
+
+PS: Шоуноты отличаются от вшитых в подкаст, но это в последний раз, честно-честно. :)
+
+<%- @getEnclosure() %>

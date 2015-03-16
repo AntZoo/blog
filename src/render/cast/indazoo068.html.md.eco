@@ -1,0 +1,16 @@
+---
+title: "Зоопарк 68: Пьянка, ветер, магазин"
+date: 2013-09-03 08:11
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- [Я в ADN](https://alpha.app.net/antzoo);
+- [IFTTT](http://ifttt.com/);
+- [Babian, 'Heja dom som vinner!'](https://itunes.apple.com/ru/album/heja-dom-som-vinner!/id570816014);
+- [Worms 3](https://itunes.apple.com/ru/app/worms-3/id596677177?mt=8);
+- [Junk Jack X](https://itunes.apple.com/ru/app/junk-jack-x/id601584735?mt=8);
+- [Tiny Thief](https://itunes.apple.com/ru/app/tiny-thief/id656620224?mt=8);
+- [DailyCost](https://itunes.apple.com/ru/app/dailycost-simple-elegant-intuitive/id566587079?mt=8).
+
+<%- @getEnclosure() %>

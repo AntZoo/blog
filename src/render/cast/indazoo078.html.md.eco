@@ -1,0 +1,10 @@
+---
+title: "Зоопарк 78: Перед корпоративом"
+date: 2014-06-04 12:41
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- Хоккей, Ломна, Camera grip, дача под Климковицами, Castle of Illusion, WP 8.1, WWDC14, кактус.
+
+<%- @getEnclosure() %>

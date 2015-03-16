@@ -1,0 +1,75 @@
+---
+layout: default
+---
+
+.row.hidden-sm.hidden-xs
+  .col-md-9
+    article#post.post
+      h1= document.title
+      .post-content!= content
+  .col-md-3
+    div
+      case document.author
+        when "Anton Zujev"
+          a(href="/p/anton_zujev/"): img(src="/images/a.jpg").avatar.center-block.pod-pic
+        default
+          a(href="/p/anton_zujev/"): img(src="/images/a.jpg").avatar.center-block.pod-pic
+    div.text-center.center-block
+      h4 Written on:
+      p= document.date.toLocaleDateString()
+    if document.external
+      div.center-block.text-center
+        h4 Source:
+        a.external-link(href="document.external")= document.external
+    div(style="margin-bottom: 30px;margin-top: 20px").center-block.text-center
+      .likely(style="margin-bottom: 20px")
+        .twitter(data-via="antzoo") Tweet
+        .facebook Share
+      .likely
+        .vkontakte Share
+        .gplus Plus
+    div
+      h4 Related posts:
+      each doc in getRelatedDocuments().slice(0,5)
+        a(href=doc.url)= doc.title
+        br
+
+.row.hidden-md.hidden-lg
+  .col-md-12
+    article#post.post
+      h1= document.title
+      p= document.date.toLocaleDateString()
+      if document.external
+        p
+          a.external-link(href="document.external") Read source
+      .post-content!= content
+
+    .likely
+      .twitter(data-via="antzoo") Tweet
+      .facebook Share
+      .vkontakte Share
+      .gplus Plus
+
+.row.hidden-md.hidden-lg
+  .col-md-12
+    h3 Related posts:
+    each doc in getRelatedDocuments().slice(0,3)
+      a(href=doc.url)= doc.title
+      br
+
+if document.comments
+  .row
+    .col-md-12
+      :t(render="html")
+        <div class="comment-section">
+          <div id="disqus_thread"></div>
+          <script type="text/javascript">
+              var disqus_shortname = 'blog-md';
+              (function() {
+                  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+                  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+                  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+              })();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>  
+        </div>

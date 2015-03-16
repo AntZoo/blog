@@ -1,0 +1,80 @@
+---
+layout: 'default'
+---
+
+.jumbotron
+  h1.hidden-sm.hidden-xs Anton Zujev
+  h1.hidden-md.hidden-lg(style="text-align: center") Anton Zujev
+  .row.hidden-xs.hidden-sm
+    .col-md-2
+      img.avatar(src="/images/a.jpg")
+    .col-md-10
+      p: :markdown
+        Developer. Linguist. Nice fellow.
+      p: :markdown
+        Contact me at <a href="mailto:anton@zujev.eu"><i class="fa fa-envelope-o"></i>&nbsp;anton@zujev.eu</a> or <a href="tel:+420774633223"><i class="fa fa-mobile"></i>&nbsp;+420 774 633 223</a>.
+
+        Find me on <a href="http://twitter.com/antzoo/"><i class="fa fa-twitter"></i>&nbsp;Twitter</a>, <a href="http://www.facebook.com/anton.zuev/"><i class="fa fa-facebook-official"></i>&nbsp;Facebook</a>, <a href="http://vk.com/anton.zujev/"><i class="fa fa-vk"></i>&nbsp;VK</a> and <a href="http://instagram.com/antzoo/"><i class="fa fa-instagram"></i>&nbsp;Instagram</a>.
+  .row.hidden-md.hidden-lg
+    .col-md-12
+      img.avatar.center-block(src="/images/a.jpg")
+    .col-md-12.mobile-lists
+      p: :markdown
+        Developer. Linguist. Nice fellow.
+      p: :markdown
+        Contacts:
+          - <a href="mailto:anton@zujev.eu"><i class="fa fa-envelope-o"></i>&nbsp;email</a>
+          - <a href="tel:+420774633223"><i class="fa fa-mobile"></i>&nbsp;phone</a>
+
+        Web presense:
+          - <a href="http://twitter.com/antzoo/"><i class="fa fa-twitter"></i>&nbsp;Twitter</a>
+          - <a href="http://www.facebook.com/anton.zuev/"><i class="fa fa-facebook-official"></i>&nbsp;Facebook</a>
+          - <a href="http://vk.com/anton.zujev"><i class="fa fa-vk"></i>&nbsp;VK</a>
+          - <a href="http://instagram.com/antzoo/"><i class="fa fa-instagram"></i>&nbsp;Instagram</a>
+.row.hidden-xs.hidden-sm
+  .col-md-1
+  .col-md-4
+    h4 Latest podcast
+    hr
+    .row
+      .col-md-12
+        each doc in getCollection("podcasts").toJSON().slice(0,1)
+          case doc.podfeed
+            when "indazoo"
+              img.avatar.center-block(src="/images/pod_indazoo.jpg")
+            when "utan"
+              img.avatar.center-block(src="/images/pod_utan.jpg")
+            when "hot"
+              img.avatar.center-block(src="/images/pod_hot.jpg")
+            when "cnt"
+              img.avatar.center-block(src="/images/pod_cnt.jpg")
+            default
+              img.avatar.center-block(src="/images/pod_generic.jpg")
+    .row
+      .col-md-12
+        each doc in getCollection("podcasts").toJSON().slice(0,1)
+          case doc.podfeed
+            when "indazoo"
+              a.jouele(href="http://thezujev.com/sources/pods/zoo/" + doc.basename + ".mp3")= doc.title
+            when "utan"
+              a.jouele(href="http://thezujev.com/sources/pods/utn/" + doc.basename + ".mp3")= doc.title
+            when "hot"
+              a.jouele(href="http://thezujev.com/sources/pods/hot/" + doc.basename + ".mp3")= doc.title
+            when "cnt"
+              a.jouele(href="http://thezujev.com/sources/pods/cnt/" + doc.basename + ".mp3")= doc.title
+            default
+              a.jouele(href="#") An error occured. Please drop me a line.
+  .col-md-1
+  .col-md-5
+    h4 Latest blogpost
+    hr
+    :t(render="eco")
+      <% for document in @getCollection("posts").toJSON().slice(0,1): %>
+        <h5 class="index-last-post-title"><%=document.title%></h5>
+        <div class="post-date index-last-post-date"><%= document.date.toLocaleDateString() %></div>
+        <div class="post-content">
+          <p><%= document.excerpt %></p>
+          <p><a href="<%= document.url %>" title="Read on">Read it!</a></p>
+        </div>
+      <% end %>
+  .col-md-1

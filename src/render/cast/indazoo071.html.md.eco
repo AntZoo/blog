@@ -1,0 +1,11 @@
+---
+title: "Зоопарк 71: Всё о том же"
+date: 2013-11-18 12:02
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- [IT Loft](http://itloft.ru/);
+- [LoftBlog](http://loftblog.ru/).
+
+<%- @getEnclosure() %>

@@ -1,0 +1,27 @@
+---
+title: "Зоопарк 38: Посиделки"
+date: 2011-12-23 13:48
+podfeed: indazoo
+comments: true
+---
+Темы выпуска:
+- праздники;
+- Гавел;
+- JUG;
+- парикмахер;
+- аудиокниги;
+- sleepti.me;
+- ohlife;
+- Etsy и Fler.
+
+Ссылки выпуска:
+- [Акция в Audible](http://audible.com/twit2);
+- [Когда лечь спать](http://sleepti.me/);
+- [Онлайн приватный дневник](http://ohlife.com/);
+- [Хэндмейд в США](http://etsy.com/);
+- [Хэндмейд в Чехии](http://fler.cz/).
+
+Слова выпуска:
+- kdo šetří, má za tři.
+
+<%- @getEnclosure() %>

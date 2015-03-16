@@ -1,0 +1,16 @@
+---
+title: "Зоопарк 87: Взяли!"
+date: 2015-02-18 08:57
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- С первого мая - в Тието;
+- Переезд на docpad - окончание;
+- Всякая всячина.
+
+Ссылки:
+- [Habit RPG](http://habitrpg.com)
+
+
+<%- @getEnclosure() %>

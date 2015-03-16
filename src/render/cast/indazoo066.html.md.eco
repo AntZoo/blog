@@ -1,0 +1,10 @@
+---
+title: "Зоопарк 66: Через линзу айфона"
+date: 2013-08-16 22:12
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- Поиски машины, апгрейд сайта, приобретение olloclip и немного о чешской пьянке.
+
+<%- @getEnclosure() %>

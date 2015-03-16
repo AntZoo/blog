@@ -1,0 +1,30 @@
+---
+title: "Зоопарк 57: Фонари и сауны"
+date: 2012-11-23 10:08
+podfeed: indazoo
+comments: true
+---
+Темы выпуска:
+- наушники, увы, всё;
+- самое важное из искусств;
+- остравские сауны;
+- фонарное шествие;
+- апгрейд техники;
+- визитки;
+- перенос блога;
+- джава и питон;
+- свет;
+- вымирание Порубы;
+- английские слова.
+
+Ссылки выпуска:
+- [Jabra Street 2](http://www.jabra.com/products/bluetooth/jabra_street2/jabra_street2);
+- [Мой блог](http://anton.zujev.eu/blog/);
+- [Мой гитхаб](https://github.com/antzoo);
+- [English Coffee Ostrava](http://coffee.ostrava.cc/).
+
+Слова выпуска:
+- rooftopping;
+- rooftopper.
+
+<%- @getEnclosure() %>

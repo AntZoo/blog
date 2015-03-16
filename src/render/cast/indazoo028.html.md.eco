@@ -1,0 +1,41 @@
+---
+title: "Зоопарк 28: Прогулка"
+date: 2011-10-08 09:02
+podfeed: indazoo
+comments: true
+---
+Темы выпуска:
+- советский городок;
+- поломался макинтош;
+- нашёл свой flow;
+- обучение японскому;
+- эппломагазины в Чехии;
+- человек покупал айПад;
+- мои любимые программы для заметок;
+- писание стилусом;
+- Apple Store в Чехии - первый шаг;
+- симка без контрата;
+- běh Teryho Foxe;
+- ещё одни курсы Джавы;
+- покупка постели;
+- натягивание на деньги а-ля Mall.cz.
+
+Наблюдения:
+- бритые чехи;
+- бесстрашные чехи;
+- двойные номера домов;
+- odražedlo.
+
+Ссылки выпуска:
+- [notes plus](http://notesplusapp.com/);
+- [penultimate](http://evernote.com/penultimate/);
+- [wacom bamboo paper](http://www.wacom.com/gb/en/everyday/bamboo-paper);
+- [sketchbook pro](https://itunes.apple.com/ca/app/sketchbook-pro-for-ipad/id364253478?mt=8);
+- [layers](http://www.layersforipad.com/);
+- [brushes](https://itunes.apple.com/us/app/brushes-3/id545366251?mt=8);
+- [wacom bamboo stylus](http://bamboostylus.wacom.eu/index-RU.html);
+- [běh Teryho Foxe](http://www.terryfox.org/);
+- [Mall.cz](http://www.mall.cz/);
+- [Heureka](http://www.heureka.cz/).
+
+<%- @getEnclosure() %>

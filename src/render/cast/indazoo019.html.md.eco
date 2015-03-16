@@ -1,0 +1,17 @@
+---
+title: "Зоопарк 19: Корпоратив"
+date: 2011-05-30 15:50
+podfeed: indazoo
+comments: true
+---
+В этом выпуске вы услышите о:
+- чешском корпоративе;
+- квартире за миллион;
+- пристрастии к гаджетам.
+
+Ссылки выпуска:
+- [Horní Lomná](https://www.google.com/maps/preview#!q=Horn%C3%AD+Lomn%C3%A1%2C+Czech+Republic&data=!1m4!1m3!1d2590!2d18.639078!3d49.529442!2m1!1e3!4m10!1m9!4m8!1m3!1d329352!2d18.290248!3d49.841272!3m2!1i1024!2i768!4f13.1);
+- [Hotel Excelsior](http://www.excelsior-hotel.cz/?lang=en);
+- [Alšovo náměstí](https://www.google.com/maps/preview#!q=Al%C5%A1ovo+n%C3%A1m%C4%9Bst%C3%AD%2C+Ostrava-Poruba%2C+%C4%8Cesk%C3%A1+republika&data=!1m4!1m3!1d1287!2d18.169177!3d49.829772!2m1!1e3!4m10!1m9!4m8!1m3!1d2590!2d18.639078!3d49.529442!3m2!1i1024!2i768!4f13.1).
+
+<%- @getEnclosure() %>

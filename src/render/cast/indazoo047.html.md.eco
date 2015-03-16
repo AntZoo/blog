@@ -1,0 +1,29 @@
+---
+title: "Зоопарк 47: Шерлок наш Холмс"
+date: 2012-05-09 10:13
+podfeed: indazoo
+comments: true
+---
+Темы выпуска:
+- День рождения и подарки;
+- Микрофон;
+- Nová Karolina;
+- Международный день бэкапа;
+- Разнообразные cloud'ы;
+- Погружение в языки;
+- Foursquare;
+- Сериалы;
+- Шерлок Холмс;
+- Работа;
+- Пьянка с Министерством Финансов.
+
+Ссылки выпуска:
+- [Koss Porta Pro I](http://reviews.cnet.com/headphones/koss-portapro-headphones/4505-7877_7-32897197.html);
+- [BookBook](http://twelvesouth.com/products/bookbook_iphone/);
+- [Czech News Today](http://news.zujev.eu/);
+- [Language Immersion for Chrome](https://chrome.google.com/webstore/detail/bedbecnakfcpmkpddjfnfihogkaggkhl);
+- [Я на Foursquare](https://foursquare.com/antzoo);
+- [Sherlock](http://en.wikipedia.org/wiki/Sherlock_(TV_series));
+- [Turbofilm](http://turbofilm.tv/).
+
+<%- @getEnclosure() %>

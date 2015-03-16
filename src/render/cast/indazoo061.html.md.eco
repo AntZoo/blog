@@ -1,0 +1,17 @@
+---
+title: "Зоопарк 61: Молодой укулельщик"
+date: 2013-04-08 11:48
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- [Ukulele Mike](http://www.youtube.com/channel/UCyAlwTH-8IRI5Kct453TL-A) (Обязательно посмотрите его featured channels, там тоже очень много контента);
+- [Sugru](http://sugru.com/);
+- [Форум](http://thezujev.com/rpg/).
+
+Чешский:
+- čist si stůl.
+
+PS. Прошу прощения за pop'ы, чего-то как-то совсем плохо получилось.
+
+<%- @getEnclosure() %>

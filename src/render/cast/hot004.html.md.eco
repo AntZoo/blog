@@ -1,0 +1,9 @@
+---
+title: "На горяченькое 4"
+date: 2011-12-07 09:57
+podfeed: hot
+comments: true
+---
+Поговорим о коммунизме.
+
+<%- @getEnclosure() %>

@@ -1,0 +1,10 @@
+---
+title: "Зоопарк 39: Resolutions"
+date: 2011-12-28 21:01
+podfeed: indazoo
+comments: true
+---
+Темы выпуска:
+- Подведение итогов и новогодние резолюции.
+
+<%- @getEnclosure() %>

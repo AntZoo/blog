@@ -1,0 +1,14 @@
+---
+title: "Зоопарк 14: Две темы"
+date: 2011-01-30 12:35
+podfeed: indazoo
+comments: true
+---
+В этом выпуске я говорю о:
+- поездке в Чехию;
+- эмиграции.
+
+Ссылки выпуска:
+- [Чешские законы](http://portal.gov.cz/portal/obcan/);
+
+<%- @getEnclosure() %>

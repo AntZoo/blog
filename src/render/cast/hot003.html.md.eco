@@ -1,0 +1,13 @@
+---
+title: "Breaking News 3"
+date: 2011-06-09 18:51
+podfeed: hot
+comments: true
+---
+В этом выпуске вы услышите о:
+- WWDC 2011;
+- OS X Lion;
+- iOS 5;
+- iCloud.
+
+<%- @getEnclosure() %>

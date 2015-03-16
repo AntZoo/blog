@@ -1,0 +1,11 @@
+---
+title: "Зоопарк 63"
+date: 2013-07-22 10:05
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- [Новый сайт ECO](http://coffee.ostrava.cc/);
+- [Группа ECO в Контакте](http://vk.com/englishcoffeeostrava).
+
+<%- @getEnclosure() %>

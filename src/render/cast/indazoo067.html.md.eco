@@ -1,0 +1,13 @@
+---
+title: "Зоопарк 67: ПМЖ-ист"
+date: 2013-08-23 09:10
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- Машина тю-тю, ПМЖ и гражданство и ассорти из прочих тем.
+
+Музыка в выпуске:
+- Jack Skuller - Love Is A Drum
+
+<%- @getEnclosure() %>

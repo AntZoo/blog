@@ -1,0 +1,10 @@
+---
+title: "Зоопарк 72: Зарисовка"
+date: 2013-11-27 11:45
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- [Сайт о тестах на гражданство](http://obcanstvi.cestina-pro-cizince.cz/).
+
+<%- @getEnclosure() %>

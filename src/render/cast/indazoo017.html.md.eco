@@ -1,0 +1,23 @@
+---
+title: "Зоопарк 17: Я всё ещё тут"
+date: 2011-04-26 17:53
+podfeed: indazoo
+comments: true
+---
+В этом выпуске я говорю о:
+- прививках и болезнях;
+- работе и программировании;
+- визах и полиции;
+- пасхе и хлыстах;
+- браузеросрачах.
+
+Ссылки выпуска:
+- [сайт моего работодателя](http://www.taxnet.cz/);
+- [помлазки и карабачи](http://cs.wikipedia.org/wiki/Poml%C3%A1zka);
+- [Россия глазами иностранцев](http://hledamka.com/rossiya-glazami-inostrancev-chto-ix-porazilo/);
+- [ЕдРо и купленные комменты](http://aiden-ko.livejournal.com/15032.html);
+- [чешские зарплаты](http://www.platy.cz/survey/choice/layout/prace);
+- [простые десктопы](http://simpledesktops.com/);
+- [конверт из письма](http://www.instructables.com/id/Envelope-free-letter-sending-Snail-Mail-origami/);
+
+<%- @getEnclosure() %>

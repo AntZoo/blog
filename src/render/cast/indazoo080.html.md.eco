@@ -1,0 +1,10 @@
+---
+title: "Зоопарк 80: Россия"
+date: 2014-08-12 10:00
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- Поездка в Россию, перерыв в выпусках.
+
+<%- @getEnclosure() %>

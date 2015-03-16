@@ -1,0 +1,9 @@
+---
+title: "На горяченькое 6"
+date: 2012-05-02 11:49
+podfeed: hot
+comments: true
+---
+Поговорим о любви.
+
+<%- @getEnclosure() %>

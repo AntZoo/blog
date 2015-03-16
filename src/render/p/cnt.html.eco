@@ -1,0 +1,13 @@
+---
+title: "Czech News Today"
+isPaged: false
+pagedCollection: 'cnt'
+---
+
+<!-- Page Content -->
+<% for document in @getPageCollection('cnt').toJSON(): %>
+    <article id="post" class="post">
+        <h3><a href='<%=document.url%>'><%= document.title %></a></h3>
+        <div class="post-date"><%= document.date.toLocaleDateString() %></div>
+    </article>
+<% end %>

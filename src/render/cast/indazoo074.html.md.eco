@@ -1,0 +1,15 @@
+---
+title: "Зоопарк 74: Ауткаст номер два"
+date: 2014-04-25 09:23
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- IT Loft:
+  - [Сайт](http://loftblog.ru/);
+  - [Ютуб](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA).
+- [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA);
+- [iRig Mic Cast](http://www.ikmultimedia.com/mobile/products/irigmiccast/);
+- [Audio Recorder Pro](http://www.tequnique.com/audiopro).
+
+<%- @getEnclosure() %>

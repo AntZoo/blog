@@ -1,0 +1,12 @@
+---
+title: "Зоопарк 77: Бытовуха+"
+date: 2014-05-23 09:26
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- [Письмо на Реддите](http://www.reddit.com/r/penpals/comments/25l9om/help_for_my_son_school_project/);
+- [Чехольчик](http://shop.golla.com/en/Phone-Wallet-DALTON-G1400);
+- [Дуолинго](https://www.duolingo.com/).
+
+<%- @getEnclosure() %>

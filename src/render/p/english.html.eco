@@ -1,0 +1,42 @@
+---
+title: "In English"
+isPaged: true
+pagedCollection: 'english'
+pageSize: 10
+---
+
+<!-- Page Content -->
+<% for document in @getPageCollection('english').toJSON(): %>
+    <article id="post" class="post">
+        <h3><a href='<%=document.url%>'><%= document.title %></a></h3>
+        <div class="post-date"><%= document.date.toLocaleDateString() %></div>
+    </article>
+<% end %>
+
+<!-- Page Listing -->
+<div class="pagination">
+    <ul nav-paginate>
+        <!-- Previous Page Button -->
+        <% unless @hasPrevPage(): %>
+            <li class="disabled nav-paginate-li"><span>Prev</span></li>
+        <% else: %>
+            <li class="nav-paginate-li"><a href="<%= @getPrevPage() %>">Prev</a></li>
+        <% end %>
+
+        <!-- Page Number Buttons -->
+        <% for pageNumber in [0..@document.page.count-1]: %>
+            <% if @document.page.number is pageNumber: %>
+                <li class="active nav-paginate-li"><span><%= pageNumber + 1 %></span></li>
+            <% else: %>
+                <li class="nav-paginate-li"><a href="<%= @getPageUrl(pageNumber) %>"><%= pageNumber + 1 %></a></li>
+            <% end %>
+        <% end %>
+
+        <!-- Next Page Button -->
+        <% unless @hasNextPage(): %>
+            <li class="disabled nav-paginate-li"><span>Next</span></li>
+        <% else: %>
+            <li class="nav-paginate-li"><a href="<%= @getNextPage() %>">Next</a></li>
+        <% end %>
+    </ul>
+</div>

@@ -1,0 +1,16 @@
+---
+title: "Czech News Today 1"
+date: 2012-01-13 12:45
+podfeed: cnt
+comments: true
+---
+Новости:
+- землетрясение в Чешском Крумлове: [ссылка](http://www.novinky.cz/domaci/256027-cesky-krumlov-zasahlo-v-noci-zemetreseni.html);
+- мнение о церквях: [ссылка](http://www.novinky.cz/domaci/254597-cirkve-nejsou-uzitecne-mysli-si-vetsina-cechu.html);
+- электронные удостоверения личности: [ссылка](http://www.go-cz.ru/news/politics/424-elektronnie-udostovereniya-v-chehii.html);
+- доверие к президенту: [ссылка](http://www.novinky.cz/domaci/255044-prezidentovi-veri-mene-lidi-nez-predloni-nejnizsi-duveru-ma-snemovna.html);
+- вера в способности властей: [ссылка](http://www.novinky.cz/domaci/254845-lide-neveri-ze-vlada-snizi-tempo-zadluzovani-statu.html);
+- реформа здравоохранения: [ссылка](http://www.novinky.cz/domaci/254858-prehled-zmen-ve-zdravotnictvi.html);
+- налоговая реформа: [ссылка](http://www.novinky.cz/domaci/254568-prehled-jake-zmeny-prinese-danova-reforma.html).
+
+<%- @getEnclosure() %>

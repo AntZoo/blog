@@ -1,0 +1,10 @@
+---
+title: "Зоопарк 50: В лесу"
+date: 2012-06-14 16:00
+podfeed: indazoo
+comments: true
+---
+Темы выпуска:
+- тимбилдинг.
+
+<%- @getEnclosure() %>

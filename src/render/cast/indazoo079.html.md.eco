@@ -1,0 +1,10 @@
+---
+title: "Зоопарк 79: Привет из сервиса"
+date: 2014-06-25 10:11
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- [Отель](http://excelsior-hotel.cz/).
+
+<%- @getEnclosure() %>

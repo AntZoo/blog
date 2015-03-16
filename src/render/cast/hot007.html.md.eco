@@ -1,0 +1,26 @@
+---
+title: "На горяченькое 7"
+date: 2012-07-31 10:07
+podfeed: hot
+comments: true
+---
+Поговорим о ссылках.
+
+- [Проекты Петербурга](http://spb-projects.ru/);
+- [Kern Type](http://type.method.ac/);
+- [Shape Type](http://shape.method.ac/);
+- [Мошенница Умножила Деньги Делением Купюр На Части](http://www.go-cz.ru/novosti-chehii/ekonomika/399-umnozhaem-dengi.html);
+- [Why the iPhone’s Speaker is on the Bottom of the Handset](http://www.idownloadblog.com/2011/11/02/iphone-speaker-bottom/);
+- [Vědci už díky Nohavicovi vědí, jak říkat genu proti smogu](http://zpravy.idnes.cz/vedci-uz-diky-nohavicovi-vedi-jak-rikat-genu-proti-smogu-p2x-/domaci.aspx?c=A111123_1689486_ostrava-zpravy_jog);
+- [«Яндекс» будет искать видеоролики в Чехии](http://www.go-cz.ru/novosti-chehii/ekonomika/411-yandex-i-seznam-.html);
+- [You Have Downloaded](http://www.youhavedownloaded.com/);
+- [Plague Words and Phrases](http://grammar.ccc.commnet.edu/grammar/plague.htm);
+- [Тесты на логику. Логические задачи и головоломки](http://nazva.net/logic_test1/);
+- [Тысячи чехов объявили себя джедаями](http://www.go-cz.ru/novosti/kultura/420-chehi-jedai.html);
+- [Welcome to Method of Action](http://method.ac/);
+- [A Passenger’s Lot Then . . . And Now](http://www.nytimes.com/interactive/2012/04/08/sunday-review/a-passengers-lot-then-and-now.html?ref=sunday-review&_r=0);
+- [Recursive Drawing](http://recursivedrawing.com/draw.html);
+- [Endangered Languages Project](http://www.endangeredlanguages.com/);
+- [E.g. vs. i.e. - Grammarist](http://grammarist.com/usage/ie-eg/).
+
+<%- @getEnclosure() %>

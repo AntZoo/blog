@@ -1,0 +1,29 @@
+---
+title: "Зоопарк 46: Творческая сторона"
+date: 2012-05-02 12:53
+podfeed: indazoo
+comments: true
+---
+Темы выпуска:
+- перерыв;
+- ремонты айфонов;
+- пасха;
+- переезд;
+- blogsy;
+- cloudapp;
+- праздники;
+- безопасность труда;
+- лето;
+- Uriah Heep;
+- отпуск;
+- свадьба.
+
+Ссылки выпуска:
+- [Jouele, плеер от Ильи Бирмана](http://ilyabirman.net/jouele/);
+- [CloudApp](http://getcloudapp.com/);
+- [Blogsy](http://blogsyapp.com/).
+
+Слова выпуска:
+- to máte doma korálky?
+
+<%- @getEnclosure() %>

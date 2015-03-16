@@ -1,0 +1,15 @@
+---
+title: "Зоопарк 62: Сплошные новости"
+date: 2013-05-17 15:18
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- [Переводы песен Высоцкого](http://www.wysotsky.com/);
+- [PewDiePie](http://www.youtube.com/user/PewDiePie/);
+- [Zombie Walk Prague](http://www.zombiewalk.cz/);
+- [TEDx Prague](http://www.tedxprague.cz/);
+- [TEDx Brno](http://www.tedxbrno.cz/);
+- [TEDx Ostrava](https://www.facebook.com/pages/TEDxOstrava/302181663183446).
+
+<%- @getEnclosure() %>

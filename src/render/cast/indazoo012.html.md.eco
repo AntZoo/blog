@@ -1,0 +1,15 @@
+---
+title: "Зоопарк 12: I'm Not Dead Yet"
+date: 2010-12-11 03:15
+podfeed: indazoo
+comments: true
+---
+В этом выпуске я говорю о:
+- Новых сезонах, старых темах и прочем-прочем-прочем.
+
+Ссылки выпуска:
+- [Чешский магазин электроники](http://www.alza.cz/);
+- [Новый хомяк](http://anton.zujev.eu/);
+- [Sleep Tracker для iPhone](https://itunes.apple.com/ru/app/id359431485?mt=8).
+
+<%- @getEnclosure() %>

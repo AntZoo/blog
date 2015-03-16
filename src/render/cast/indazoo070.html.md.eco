@@ -1,0 +1,10 @@
+---
+title: "Зоопарк 70: Телефоны и комиксы"
+date: 2013-11-12 13:00
+podfeed: indazoo
+comments: true
+---
+Shownotes:  
+Ну да, я не мог вспомнить автора коммента. Его зовут chak, вот его [профиль](http://chak.rpod.ru/) на рподе.
+
+<%- @getEnclosure() %>

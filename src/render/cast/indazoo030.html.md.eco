@@ -1,0 +1,28 @@
+---
+title: "Зоопарк 30: Стив и не только"
+date: 2011-10-17 16:34
+podfeed: indazoo
+comments: true
+---
+Темы выпуска:
+- осень;
+- День рождения;
+- чешские настойки;
+- рабочая презентация в Праге;
+- эпопея со страховкой;
+- иОС 5.0;
+- "Давайте поговорим об айФоне";
+- обещание читать;
+- Java и GitHub;
+- Quora;
+- Aukro;
+- умершая зарядка;
+- умер Джобс;
+- статья в Wired.
+
+Ссылки выпуска:
+- [GitHub](http://bits.zujev.eu/nAUutv);
+- [Quora](http://bits.zujev.eu/oYLCjO);
+- [Aukro](http://bits.zujev.eu/ozPyw).
+
+<%- @getEnclosure() %>

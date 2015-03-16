@@ -1,0 +1,17 @@
+---
+title: "Зоопарк 85: Собеседование 2"
+date: 2015-01-22 10:39
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+
+Прошу прощения за звук из унитаза. Записалось очень паршиво, как мог почистил. Слишком много всего наговорил того, что не хотелось бы перезаписывать, поэтому выложил уж как есть. На будущее собираюсь поменять микрофон на вот [эту няшу](http://www.rodemic.com/microphones/smartlav-plus), и будет лучше.
+
+Что касается ссылок, то вот они:
+
+- [Forvo.com](http://forvo.com);
+- [Octopress 3.0](http://octopress.org/2015/01/15/octopress-3.0-is-coming/);
+- [Экзамены для гражданства](http://obcanstvi.cestina-pro-cizince.cz/).
+
+<%- @getEnclosure() %>

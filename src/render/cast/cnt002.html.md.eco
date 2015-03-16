@@ -1,0 +1,21 @@
+---
+title: "Czech News Today 2"
+date: 2012-01-31 12:40
+podfeed: cnt
+comments: true
+---
+Новости:
+- неудавшийся взяточник: [ссылка](http://ostrava.idnes.cz/za-uplatek-nemusis-pracovat-nabidl-jednatel-firmy-odsouzenemu-pvf-/ostrava-zpravy.aspx?c=A120130_114415_ostrava-zpravy_jog);
+- угон во время тест-драйва: [ссылка](http://ostrava.idnes.cz/muz-ukradl-auto-pri-zkusebni-jizde-ujizdel-s-otevrenymi-dvermi-psr-/ostrava-zpravy.aspx?c=A120130_101323_ostrava-zpravy_jog);
+- приходят русские морозы: [ссылка](http://www.novinky.cz/domaci/257533-prituhne-z-ruska-k-nam-miri-mrazy-az-25-stupnu.html);
+- снова смог: [ссылка](http://www.novinky.cz/domaci/257525-sever-moravy-a-slezska-zcela-pokryl-smog.html);
+- венский угонщик: [ссылка](http://www.ceskenoviny.cz/domov/zpravy/744769);
+- пражская статистика: [ссылка](http://www.novinky.cz/domaci/256966-praha-ma-nejvice-obyvatel-v-historii.html);
+- электронные читалки в библиотеках: [ссылка](http://www.ceskenoviny.cz/domov/zpravy/744140);
+- мужчина, убивший маму с бабушкой: [ссылка](http://www.ceskenoviny.cz/domov/zpravy/744214);
+- совестливый киллер: [ссылка](http://zpravy.idnes.cz/muz-chtel-zlikvidovat-manzelku-najaty-vrah-se-ale-spojil-s-policii-1da-/krimi.aspx?c=A120120_210508_ostrava-zpravy_jog).
+
+Ссылки выпуска:
+- Состояние воздуха в Чехии: [ссылка](http://portal.chmi.cz/files/portal/docs/uoco/web_generator/actual_hour_data_CZ.html).
+
+<%- @getEnclosure() %>

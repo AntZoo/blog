@@ -1,0 +1,13 @@
+---
+title: "Зоопарк 75: Жизнь по ночам"
+date: 2014-05-09 11:40
+podfeed: indazoo
+comments: true
+---
+Shownotes:
+- [Чехлы для телефончиков](http://www.ebay.com/itm/321208721504?_trksid=p2055119.m1438.l2649&var=510159203429&ssPageName=STRK%3AMEBIDX%3AIT);
+- [Linphone](http://www.windowsphone.com/en-us/store/app/linphone/99661466-8c5c-489b-a567-569c1f480d29);
+- [Заливка файлов в Гугл Драйв](http://www.labnol.org/internet/receive-files-in-google-drive/19697/);
+- А также: научпоп на Ютубе, ночные бдения, сны, магазины и прочее.научпоп на Ютубе, ночные бдения, сны, магазины и прочее.
+
+<%- @getEnclosure() %>
